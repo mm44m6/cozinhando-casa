@@ -1,0 +1,6 @@
+{
+  "appId": "com.cozinhandoemcasa.app",
+  "appName": "Cozinhando em Casa",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
