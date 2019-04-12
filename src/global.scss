@@ -9,3 +9,23 @@
 @import '~@ionic/angular/css/text-alignment.css';
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./assets/fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url('./assets/fonts/Pacifico-Regular.ttf');
+}
+
+ion-toolbar {
+    color: #fff;
+}
+
+.titulo {
+    font-family: 'Pacifico';
+    color: #8d0606;
+}
+
